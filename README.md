@@ -1,2 +1,2 @@
-# datazoomcamp-hw1
-Homework #1 for datazoomcamp 2025.
+# datazoomcamp-hws
+Ramon's repository for all the DataZoomcaps Homeworks
